@@ -1,30 +1,28 @@
 # Music Releases
-Replace this readme with your own information about your project.
+
+#2 Pair programming project
 
 Build a page that shows new album and artist releases using React! components and props.
 
-## The problem
-Plan:
-1. Sketch out the overall page (parents and children)
-2. Decide on what components we want to use
-3. Start building the basic infrastructure and reviewing json
-4. Add elements such as links, commas etc
-6. Remove components not used
-5. Review and clean up code
+Tech: React, JavaScript, HTML, CSS
 
-If we had more time our code would be more consistent in structure (what goes where), improvements for next time!
+Tech focus:
 
-Final project:
-✓ Our app have components
-✓ We're displaying dfollowing for each album:
-- album cover image
-- album name
-- the name of each artist involved with a comma between
+- Understand the role of node & npm for running JavaScript scripts
 
-✓ We played around with hover effects
-✓ When you click on the album, it's linked to the album's external url in the data
-✓ When you click on an artist, it's linked to the artist's external url in the data
-✓ Our page is responsive
+- What problems React solves
+
+- What a boilerplate project is, and how to run the Technigo react starter project
+
+- How to break up JavaScript code into importable modules
+
+- How to write JSX and React components
+
+- How to use `.map` to iterate over an array of data and mount many components
+
+- How to use React props to feed information to components
+
+- How to structure React projects into small chunks
 
 ## View it live
 https://celadon-brioche-831b80.netlify.app/
